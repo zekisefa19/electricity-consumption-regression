@@ -33,4 +33,4 @@ Veri seti UCI Machine Learning Repository üzerinden alınmıştır ve zaman ser
 
 ## 📊 Model Performansları
 
-Modeller, RMSE (Root Mean Squared Error) ve R² skorlarına göre karşılaştırılmıştır. Detaylı sonuçlar ve grafikler `electrictiy_consumption.ipynb` dosyasında sunulmuştur.
+Modeller, RMSE (Root Mean Squared Error) ve R² skorlarına göre karşılaştırılmıştır. Detaylı sonuçlar ve grafikler `electricity_consumption.ipynb` dosyasında sunulmuştur.
